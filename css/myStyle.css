@@ -1,0 +1,68 @@
+p
+{
+	color: white;
+	background-color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16pt;
+	font-weight: bold
+
+}
+
+body
+{
+    background-color: black;
+	background-image: url(../img/starbackground.jpg);
+
+}
+
+a
+{
+	color: #99ccff;
+}
+
+a.favSites
+{
+	font-size: 20pt;
+	line-height: 50px;
+
+}
+
+a:hover
+{
+	color: white;
+
+}
+a:visited
+{
+	color: #ffccff;
+
+}
+
+
+img
+{
+	float: left;
+
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+h1
+{
+	color: white;
+	font-size: 40pt;
+
+}
+
+h2
+{
+	color: white;
+	font-size: 25pt;
+}
+
+h3
+{
+	color: white;
+}

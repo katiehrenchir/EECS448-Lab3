@@ -20,7 +20,7 @@ function slideshowPrev(){
 
 function displayCat(){
 
-	document.getElementById("img").src = "img/cat" + catNum +".jpg"; 
+	document.getElementById("img").src = "../img/cat" + catNum +".jpg"; 
 
 }
 
